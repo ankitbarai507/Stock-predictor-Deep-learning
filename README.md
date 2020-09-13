@@ -25,7 +25,7 @@ make informed decisions.
 <br/>
 ![alt text](results/ntpc_loss_pred_graph.png)
 <br/>
-![alt text](results/sbi_bar.png)
+![alt text](results/sbi_bar.PNG)
 <br/>
 ![alt text](results/sbi_loss_pred_graph.png)
 
