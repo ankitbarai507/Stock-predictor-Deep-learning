@@ -23,7 +23,7 @@ make informed decisions.
 <br/>
 ![alt text](results/infy_ntpc_bar_graph.png)
 <br/>
-![alt text](results/infy_loss_pred_graph.png)
+![alt text](results/ntpc_loss_pred_graph.png)
 <br/>
 ![alt text](results/sbi_bar.png)
 <br/>
