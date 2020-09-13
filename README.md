@@ -19,15 +19,15 @@ investment decisions and strategies to hone better returns over
 time. It helps the financial analysts and business communities to
 make informed decisions.
 <br/>
-![alt text](http://url/to/img.png)
+![alt text](results/infy_loss_pred.png)
 <br/>
-![alt text](http://url/to/img.png)
+![alt text](results/infy_ntpc_bar_graph.png)
 <br/>
-![alt text](http://url/to/img.png)
+![alt text](results/infy_loss_pred_graph.png)
 <br/>
-![alt text](http://url/to/img.png)
+![alt text](results/sbi_bar.png)
 <br/>
-![alt text](http://url/to/img.png)
+![alt text](results/sbi_loss_pred_graph.png)
 
 
 
