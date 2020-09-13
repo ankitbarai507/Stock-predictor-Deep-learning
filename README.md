@@ -33,7 +33,9 @@ make informed decisions.
 
 
 # Running code
+```
 python getdataset.py eg: NSE:SBIN  <br/>
-
+```
+```
 python mainfile.py
-
+```
